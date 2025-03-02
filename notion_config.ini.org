@@ -1,0 +1,9 @@
+[Notion]
+api_key = your_api_key_here
+database_id = your_database_id_here
+
+[Options]
+image_property = 画像
+use_cover_image = true
+use_image_property = true
+use_icon = true
